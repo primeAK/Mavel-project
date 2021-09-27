@@ -8,7 +8,7 @@ public class MessageTest {
 		MessageBuilder messageBuilder = new MessageBuilder();
 		
 		System.out.println(messageBuilder.getMessage(null));
-		System.out.println(messageBuilder.getMessage("Srini"));
+		System.out.println(messageBuilder.getMessage("Ajay"));
 
 	}
 
